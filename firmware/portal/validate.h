@@ -1,3 +1,5 @@
+#pragma once
+#include <WiFi.h>
 #ifndef VALIDATE_H
 #define VALIDATE_H
 
